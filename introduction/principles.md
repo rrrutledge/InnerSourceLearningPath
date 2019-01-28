@@ -8,7 +8,7 @@ Because of that fact, the exact way that the concept of inner source works will 
 At its core, however, are two principles that form the bedrock of any successful instance of inner source.
 These principles have inspiration in successful open source projects and must be respected and present in order for inner source to achieve the benefits described earlier.
 
-The principles are:
+The principles are: 
 * **Prioritized Mentorship**
 * **Voluntary Code Contribution**
 
